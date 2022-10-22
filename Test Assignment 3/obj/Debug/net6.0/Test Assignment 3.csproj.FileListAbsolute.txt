@@ -1,0 +1,156 @@
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\appsettings.json
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.exe
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.deps.json
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.runtimeconfig.json
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Npgsql.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfo.cs
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\scopedcss\bundle\Test Assignment 3.styles.css
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CopyComplete
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\refint\Test Assignment 3.dll
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.genruntimeconfig.cache
+C:\Users\sumit\source\repos\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\ref\Test Assignment 3.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.AssemblyReference.cache
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfoInputs.cache
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfo.cs
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\ref\Test Assignment 3.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\appsettings.json
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.exe
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.deps.json
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.runtimeconfig.json
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Humanizer.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Npgsql.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\scopedcss\bundle\Test Assignment 3.styles.css
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CopyComplete
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\refint\Test Assignment 3.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.genruntimeconfig.cache
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\libman.json
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.AssemblyReference.cache
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfoInputs.cache
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfo.cs
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\refint\Test Assignment 3.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\appsettings.json
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\libman.json
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.exe
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.deps.json
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.runtimeconfig.json
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Humanizer.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Npgsql.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\scopedcss\bundle\Test Assignment 3.styles.css
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CopyComplete
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.genruntimeconfig.cache
+C:\Users\sumit\OneDrive\Skrivebord\2. semester softwareudvikling\Test Assignment 3\Test Assignment 3\obj\Debug\net6.0\ref\Test Assignment 3.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\phillip\Desktop\TestAssignment3\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\appsettings.json
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\libman.json
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.exe
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.deps.json
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.runtimeconfig.json
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Humanizer.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Npgsql.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.AssemblyReference.cache
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.AssemblyInfo.cs
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\scopedcss\bundle\Test Assignment 3.styles.css
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.csproj.CopyComplete
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\refint\Test Assignment 3.dll
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.pdb
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\Test Assignment 3.genruntimeconfig.cache
+C:\Users\chris\Documents\2SemesterSoftwareudvikler\Test\TestAssignment3\Test Assignment 3\obj\Debug\net6.0\ref\Test Assignment 3.dll
