@@ -2,7 +2,7 @@
 #### Made by: ####
 
 * Christoffer Wegner, cph-ciw109@cphbusiness.dk
-* Lukas Bang Stoltz, cph-??@cphbusiness.dk
+* Lukas Bang Stoltz, cph-ls369@cphbusiness.dk
 
 #### In colab with: ### 
 * Phillip Thomas Isenborg Andersen, cph-pa124@cphbusiness.dk
